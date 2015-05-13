@@ -1,7 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ *@see 10.-Introducir un numero por teclado. Que nos diga si es par o impar. 
  */
 package Problema10;
 

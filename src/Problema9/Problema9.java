@@ -1,7 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * @see 9.-Introducir un numero por teclado. Que nos diga si es 
+ * positivo o negativo. 
  */
 package Problema9;
 

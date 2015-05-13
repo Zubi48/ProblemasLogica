@@ -1,7 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ *@see5.-Hacer un pseudocódigo que imprima los numeros impares hasta el 100 y
+ * que imprima cuantos impares hay. 
  */
 package Problema5;
 

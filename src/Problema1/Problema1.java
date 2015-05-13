@@ -1,5 +1,5 @@
 /**
- * 1.-Hacer un pseudocodigo que imprima los numeros del 1 al 100. 
+ *@see  1.-Hacer un pseudocodigo que imprima los numeros del 1 al 100. 
  */
 package Problema1;
 

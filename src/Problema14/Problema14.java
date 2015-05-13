@@ -1,5 +1,6 @@
-/*
- *14.-Hacer un pseudocodigo que imprima el mayor y el menor de una serie de cinco numeros que vamos introduciendo por teclado. 
+/**
+ * @see 14.-Hacer un pseudocodigo que imprima el mayor y el menor de una serie
+ * de cinco numeros que vamos introduciendo por teclado. 
  */
 package Problema14;
 

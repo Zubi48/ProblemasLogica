@@ -1,4 +1,5 @@
-/*
+/**
+ * @see
  *30.-Simular una carrera de dos caballos si cada uno tiene igual probabilidad de ganar. 
  */
 package Problema30;

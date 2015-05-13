@@ -1,4 +1,5 @@
-/*
+/**
+ *@see 
  *16.-Imprimir diez veces la serie de numeros del 1 al 10. 
  */
 package Problema16;

@@ -1,7 +1,8 @@
-/*
+/**
+ * @see
  *20.-Calcular el factorial de un numero, mediante subprogramas.
  */
-package Programa20;
+package Problema20;
 
 /**
  *

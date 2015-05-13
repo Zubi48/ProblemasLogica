@@ -1,7 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ *@see 11.-Imprimir y contar los multiplos de 3 desde la unidad hasta un numero 
+ * que introducimos por teclado. 
  */
 package Problema11;
 

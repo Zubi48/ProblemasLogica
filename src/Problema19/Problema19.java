@@ -1,7 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * @see 19.-Hacer un pseudocodigo que simule el funcionamiento de un reloj 
+ * digital y que permita ponerlo en hora.
+ *
  */
 package Problema19;
 

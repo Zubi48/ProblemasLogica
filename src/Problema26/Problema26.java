@@ -1,4 +1,5 @@
-/*
+/**
+ * @see
  *26.-Introducir una frase por teclado. Imprimirla en el centro de la pantalla. 
  */
 package Problema26;

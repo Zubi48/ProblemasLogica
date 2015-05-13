@@ -1,4 +1,5 @@
-/*
+/**
+ * @see
  *28.-Simular el lanzamiento de una moneda al aire e imprimir si ha salido cara o cruz. 
  */
 package Problema28;

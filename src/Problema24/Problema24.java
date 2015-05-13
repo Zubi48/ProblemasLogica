@@ -1,4 +1,5 @@
-/*
+/**
+ * @see
  *24.-Comprobar si un numero mayor o igual que la unidad es primo. 
  */
 package Problema24;

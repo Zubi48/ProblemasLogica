@@ -1,4 +1,5 @@
-/*
+/**
+ * @see
  *22.-Introducir una frase por teclado. Imprimirla cinco veces en filas 
  *consecutivas, pero cada impresion ir  desplazada cuatro columnas 
  *hacia la derecha. 
